@@ -19,7 +19,9 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: 
+      light: quartz
+      dark: vapor
     css: styles.css
     toc: true
 

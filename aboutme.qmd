@@ -1,3 +1,15 @@
 ---
 title: "About Me"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/JordanLDewar
+    - icon: github
+      text: Github
+      href: https://github.com/J-Dewar
 ---
+
+Jordan is a PhD student at the University of Maryland's Government and Politics Program studying nationalism, identity construction, and social media.
