@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I primarily study nationalism, identity construction, and the effects of social media on politics. My region of focus is Eastern Europe.

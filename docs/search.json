@@ -16,8 +16,15 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "About",
+    "title": "Research",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I primarily study nationalism, identity construction, and the effects of social media on politics. My region of focus is Eastern Europe."
+  },
+  {
+    "objectID": "methodology.html",
+    "href": "methodology.html",
+    "title": "Methodology",
+    "section": "",
+    "text": "I have experience in R with a special emphasis on machine learning and network analysis."
   }
 ]

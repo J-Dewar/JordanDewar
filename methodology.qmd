@@ -1,0 +1,5 @@
+---
+title: "Methodology"
+---
+
+I have experience in R with a special emphasis on machine learning and network analysis.
