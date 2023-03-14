@@ -12,7 +12,7 @@ website:
         text: About Me
       - href: research.qmd
         text: Research
-      -href: methodology.qmd
+      - href: methodology.qmd
         text: Methods
       - href: https://jkbirnir.github.io/GVPT729B/
         text: "GVPT 729B"
