@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: https://jkbirnir.github.io/GVPT729B/
+        text: "GVPT 729B"
 
 format:
   html:
