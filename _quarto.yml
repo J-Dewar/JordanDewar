@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: aboutme.qmd
+        text: About Me
       - href: research.qmd
         text: Research
       - href: https://jkbirnir.github.io/GVPT729B/
